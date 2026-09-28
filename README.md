@@ -42,5 +42,7 @@
   
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adi-259)
   [![Website](https://img.shields.io/badge/website-%233867D6.svg?style=for-the-badge&logo=safari&logoColor=white)](https://aditya-portfolio-eta-nine.vercel.app/)
-  
-<!-- This README took 3 coffees ☕ and 1 existential crisis to make! -->
+  [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/infamous_adi)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-30b9a4305?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+This README took 3 coffees ☕ and 1 existential crisis to make!
