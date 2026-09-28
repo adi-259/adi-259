@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=adi-259&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F745B5&center=true&vCenter=true&width=435&lines=I%20am%20a%20B.%20Tech%20CSE%20Student%20at%20VIT%20University." alt="Typing SVG" />
 </div>
 
