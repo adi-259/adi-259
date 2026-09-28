@@ -44,11 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-259&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adi-259&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 📫 How to reach me
 
 <div align="center">
