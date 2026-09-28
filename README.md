@@ -43,23 +43,4 @@
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adi-259)
   [![Website](https://img.shields.io/badge/website-%233867D6.svg?style=for-the-badge&logo=safari&logoColor=white)](https://aditya-portfolio-eta-nine.vercel.app/)
   
-</div>
-
-<details>
-  <summary>✨ More About Me</summary>
-  <br>
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  </p>
-  
-  <h3>💻 My Workspace</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
-    <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome" />
-  </p>
-  
-  <p align="center">This README was generated with ❤️ by MarkMagic</p>
-</details>
-
 <!-- This README took 3 coffees ☕ and 1 existential crisis to make! -->
