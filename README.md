@@ -23,17 +23,15 @@
 
 - 🌍 I'm based in **India**
 
-- 🔭 Check out my portfolio: [aditya-portfolio-eta-nine.vercel.app/](https://aditya-portfolio-eta-nine.vercel.app/)
+- 🔭 Check out my portfolio: [Portfolio](https://aditya-portfolio-eta-nine.vercel.app/)
 
 - 💬 Ask me about **Python**
 
 
-## 🛠️ Skills and Technologies
-
-<p align="center">![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)</p>
-
 ## 📚 Currently Learning
 
+- 📖 Python
+- 📖 AI/ML
 - 📖 C++
 - 📖 ML
 
