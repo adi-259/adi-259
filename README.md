@@ -35,16 +35,6 @@
 - 📖 C++
 - 📖 ML
 
-## 🔥 Featured Projects
-
-### 1. Vityarthi-Project
-
-<div align="center">
-  <a href="https://github.com/adi-259/vityarthi-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi-259&repo=vityarthi-project&theme=radical" alt="Vityarthi-Project" />
-  </a>
-</div>
-
 
 ## 📊 GitHub Stats
 
