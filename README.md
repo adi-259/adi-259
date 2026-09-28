@@ -36,11 +36,6 @@
 - 📖 ML
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adi-259&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-
 ## 📫 How to reach me
 
 <div align="center">
